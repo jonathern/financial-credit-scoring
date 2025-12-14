@@ -1,3 +1,8 @@
+"""
+This script downloads the GiveMeSomeCredit competition data from Kaggle.
+The data is saved in the "credit_data" folder.
+"""
+
 import kaggle
 
 # Download the Give Me Some Credit competition data
